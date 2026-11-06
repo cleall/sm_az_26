@@ -1,0 +1,41 @@
+Idea 3
+
+Market and scope
+    Mexican REIT's also known as Fibras Inmobiliarias Mexicanas
+    Mexican Peso
+    Sector can vary as Fibras can be found in different options such as industry,
+    logistics, tourism, education jus to mention a few.
+
+Investment thesis
+    The expectation is to identify sustained growth and revenue which can
+    translate into healthy indicators to acquire/sell this type of stock. Aligning
+    your choice with your investment objectives. But this time identify if fusion
+    of two FIBRAS in a short window does have a positive impact on a period of
+    time.
+
+Potential edge
+    Invest semi-passively in a long term horizon without day trading, make adjustments
+    quarterly for starters, adjust according to your needs once familiar with the process.
+
+    Data is publicly available through quarterly and annual reports so you can
+    automate this process with custom options.
+    
+    The signal would be to identify wether or not the price goes below/above a
+    treshold, due to the fusion/acquisition of two FIBRAS. During the announcement
+    to the conclusion of this process.
+
+Research approach
+    
+    Where the value is located is in identifying if the fusion of two FIBRAS
+    leads to an event of appreciation in a short time window. The fusion is not
+    an event that happens overnight there are announcements, planned dates for
+    acquisition and then final announcements. This can take months even a year.
+    The result of such fusion can be measured in the short term similar to what
+    IPO stock go trough when announced.
+
+Validation and risks
+    The benchmark is simple the before and after rate (of a time period) of the
+    FIBRA who is acquiring the other one. In this case an optimistic fusion can
+    affect several indicators and thus modify positively the rate increasing it.
+    
+    Compare against historic data before and after the fusion.

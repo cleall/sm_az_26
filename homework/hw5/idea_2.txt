@@ -1,0 +1,39 @@
+Idea 2
+
+Market and scope
+    Mexican REIT's also known as Fibras Inmobiliarias Mexicanas
+    Mexican Peso
+    Sector can vary as Fibras can be found in different options such as industry,
+    logistics, tourism, education jus to mention a few.
+
+Investment thesis
+    The expectation is to identify sustained growth and revenue which can
+    translate into healthy indicators to acquire/sell this type of stock. Aligning
+    your choice with your investment objectives. But this time identify if the
+    previous days of earnings distribution have an impact on buy/sale prices.
+
+Potential edge
+    Invest semi-passively in a long term horizon without day trading, make adjustments
+    quarterly for starters, adjust according to your needs once familiar with the process.
+
+    Data is publicly available through quarterly and annual reports so you can
+    automate this process with custom options.
+    
+    The signal would be to identify wether or not the price goes below/above a
+    treshold, in this case the action can be triggered in favour of the investor.
+
+Research approach
+    
+    Where the value is located is in identifying on your own what indicators
+    align with your investment objectives. In this fashion the indicators of
+    your choice can then be used to train any model you would like and adjust the
+    value of the threshold you consider best using the model's results and your
+    criteria.
+
+Validation and risks
+    The benchmark is simple the CETES rate in Mexico of your desired time period,
+    if less equal to this value your selection is underperforming and you have 
+    to reconsider your approach.
+    
+    It is mandatory to stay tuned to know when is the next earnings distribution
+    date.
